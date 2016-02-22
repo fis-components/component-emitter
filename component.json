@@ -1,9 +1,0 @@
-{
-    "name": "component-emitter",
-    "description": "Event emitter",
-    "repos": "https://github.com/component/emitter.git",
-    "main": "index.js",
-    "tag": "master",
-    "reposType": "npm",
-    "version": "1.1.2"
-}
